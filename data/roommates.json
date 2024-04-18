@@ -1,0 +1,10 @@
+{
+    "roommates": [
+        {
+            "id": "10",
+            "Nombre": "Juanito",
+            "Debe": 1,
+            "Recibe": 1
+        }
+    ]
+}

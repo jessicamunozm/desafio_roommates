@@ -1,0 +1,18 @@
+{
+  "name": "apoyo-prueba---roommates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Jessica Muñoz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
