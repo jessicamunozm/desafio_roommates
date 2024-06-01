@@ -1,10 +1,1 @@
-{
-    "roommates": [
-        {
-            "id": "10",
-            "Nombre": "Juanito",
-            "Debe": 1,
-            "Recibe": 1
-        }
-    ]
-}
+{"roommates":[{"id":"4f1c5e","nombre":"Minttu Aro","email":"minttu.aro@example.com","debe":-1152292.3333333333,"recibe":27406.666666666664,"total":"1179699.00"},{"id":"810580","nombre":"Diana Fields","email":"diana.fields@example.com","debe":-30370.000000000004,"recibe":2271251.333333333,"total":"2301621.33"},{"id":"8868a2","nombre":"Anica Hofer","email":"anica.hofer@example.com","debe":-1149329,"recibe":33333.333333333336,"total":"1182662.33"}]}

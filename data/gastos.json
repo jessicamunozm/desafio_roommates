@@ -1,5 +1,1 @@
-{
-    "gastos": [
-        
-    ]
-}
+{"gastos":[{"roommate":"Minttu Aro","descripcion":"Articulos de limpieza","monto":15000,"fecha":"2024-06-01T20:47:16.071Z","id":"3530b9"},{"roommate":"Diana Fields","descripcion":"Articulos de limpieza","monto":52000,"fecha":"2024-06-01T20:47:21.303Z","id":"8c035e"},{"roommate":"Minttu Aro","descripcion":"Articulos de limpieza","monto":15000,"fecha":"2024-06-01T20:48:23.269Z","id":"a1f3c4"},{"roommate":"Anica Hofer","descripcion":"Articulos de limpieza","monto":50000,"fecha":"2024-06-01T20:48:29.757Z","id":"9f4a69"},{"roommate":"Minttu Aro","descripcion":"Articulos de limpieza","monto":5555,"fecha":"2024-06-01T20:50:01.744Z","id":"980cd7"},{"roommate":"Minttu Aro","descripcion":"Articulos de limpieza","monto":5555,"fecha":"2024-06-01T20:50:03.319Z","id":"bdb514"},{"roommate":"Diana Fields","descripcion":"Articulos de limpieza","monto":3354877,"fecha":"2024-06-01T20:50:09.763Z","id":"84ea02"}]}
